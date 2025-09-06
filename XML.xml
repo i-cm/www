@@ -1,0 +1,32 @@
+<!--xml code-->
+<a>
+  <b apple boeing="737-800"/>
+  &c;&d;&e;&f;&g;&h;&i;&j;&k;
+  <![CDATA[2 > 1 < 2]]> <!-- confusing???;*:#+":$; -->
+</a>
+<l>
+  ERROR
+  WARNI
+  CAUTI
+  INFO (fail)
+  FAIL
+  KILO
+  MEGA
+  GIGA
+  TERA
+  PETA
+  EXA (fail)
+  CAT
+  BAN
+  PAN
+  WHA
+  NO (fail)
+  YE
+  WH
+  NO
+  WT
+  ON
+  A (fail)
+  (fail)
+  [FAIL]
+</l>
